@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulatorComponentMetamodel:Simulator xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:simulatorComponentMetamodel="http://www.example.org/simulatorComponentMetamodel" name="SimuLizar" id="00_SimuLizar">
+  <components name="paradigm.interpreter" id="00" provides="//@components.0"/>
+  <components name="domain.interpreter" id="01" requires="//@components.0" provides="//@components.0"/>
+</simulatorComponentMetamodel:Simulator>

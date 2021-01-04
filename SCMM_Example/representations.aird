@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description" uid="_tm2KwEiDEeugXeOzTaGT4g" selectedViews="_jpgFsEkkEeuhPr2GXbVPOw" version="14.3.1.202003261200">
+  <semanticResources>My.simulatorcomponentmetamodel</semanticResources>
+  <ownedViews xmi:type="viewpoint:DView" uid="_jpgFsEkkEeuhPr2GXbVPOw">
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/edu.kit.kastel.sdq.scmm.design/description/scmm.odesign#//@ownedViewpoints[name='simulators']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>
